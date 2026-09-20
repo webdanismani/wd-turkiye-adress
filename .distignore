@@ -1,0 +1,13 @@
+.git
+.github
+.gitattributes
+.gitignore
+.distignore
+CONTRIBUTING.md
+SECURITY.md
+node_modules
+vendor
+*.zip
+*.log
+.DS_Store
+Thumbs.db

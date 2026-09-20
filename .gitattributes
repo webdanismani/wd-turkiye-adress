@@ -1,0 +1,11 @@
+# "Download ZIP" / git archive çıktısında depo dosyalarını dışarıda bırak
+.github export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.distignore export-ignore
+CONTRIBUTING.md export-ignore
+SECURITY.md export-ignore
+CHANGELOG.md export-ignore
+
+*.json.gz binary
+*.svg text
