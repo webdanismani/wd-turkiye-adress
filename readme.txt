@@ -1,12 +1,12 @@
 === WD Türkiye Adres — İl İlçe Mahalle Sokak Seçimi ===
-Contributors: oblifex
+Contributors: webdanismani
 Tags: woocommerce, türkiye, adres, il ilçe, mahalle
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
 WC requires at least: 7.0
 WC tested up to: 11.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -42,10 +42,10 @@ Türkiye'deki mağazalar için tasarlanmış adres seçim bileşeni. Müşteri a
 
 == Destek, özellik isteği ve güncellemeler ==
 
-Bu eklenti Oblifex (https://oblifex.com) tarafından ücretsiz sunulur. Güncellemeler GitHub sürümlerinden (https://github.com/oblifex/wd-turkiye-adres) WordPress paneline otomatik gelir; Eklentiler ekranındaki "Güncellemeleri denetle" bağlantısı denetimi hemen yapar.
+Bu eklenti Oblifex (https://oblifex.com) tarafından ücretsiz sunulur. Güncellemeler GitHub sürümlerinden (https://github.com/webdanismani/wd-turkiye-adress) WordPress paneline otomatik gelir; Eklentiler ekranındaki "Güncellemeleri denetle" bağlantısı denetimi hemen yapar.
 
-* Özellik isteği: https://oblifex.com/ozellik-istegi
-* Destek: https://oblifex.com/destek
+* Özellik isteği: https://oblifex.com
+* Destek: https://oblifex.com
 * Özel geliştirme: https://oblifex.com
 
 == Installation ==
@@ -70,6 +70,11 @@ Sunucunuzda PHP zlib (gzdecode) etkin olmalıdır. Durumu Veri sekmesinden göre
 * Posta kodları: PTT posta kodu listesi (16.11.2021), serhatmorkoc/PTT-il-ilce-semt-mahalle-jsondata
 
 == Changelog ==
+
+= 1.0.1 =
+* Eksik dosya nedeniyle etkinleştirmede oluşan kritik hata giderildi.
+* Eksik kurulum koruması ve güvenli güncelleme.
+* Destek: oblifex.com · Geliştirici: Web Danışmanı (webdanismani.com).
 
 = 1.0.0 =
 * İlk sürüm.
